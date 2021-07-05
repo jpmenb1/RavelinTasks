@@ -1,0 +1,565 @@
+﻿deviceId,devicetype,user_id,credit_card_id,domain
+dev-a6ec70f1,,id-52760576,card-f62c9e0f51,ddk.com
+dev-42671881,Sony Ericsson ST15i (ST15i_1250-2612),id-22891520,card-ab9b2255e1,yahoo.com
+dev-a6ec70f1,,id-14748672,card-f62c9e0f51,dkdl.com
+dev-52480977,samsung GT-N7100 (t03gxx),id-36466688,card-ab9b2255e1,yahoo.com
+dev-a6ec70f1,,id-18005504,card-f62c9e0f51,djdjs.com
+dev-24DE3063,iPad4-1,id-84352256,card-1f990464c1,decawave.com
+dev-a6ec70f1,,id-83476736,card-f62c9e0f51,gio.com
+dev-a6ec70f1,iPhone 4,id-29596928,card-f62c9e0f51,jdjd.com
+dev-a6ec70f1,,id-48246528,card-719c600e76,fkdj.com
+dev-DB323B73,iPhone 5,id-46682624,card-d5813c12d0,hotmail.com
+dev-DB323B73,iPhone 5,id-46682624,card-3fe74d61f8,hotmail.com
+dev-04968363,iPhone 5,id-28111360,card-11c7ef16c7,outlook.com
+dev-54B4A2D1,iPad 3,id-39649024,card-3fe74d61f8,esb.co.uk
+dev-04968363,iPhone 5,id-79842816,card-11c7ef16c7,hij.com
+dev-55739450,samsung GT-S5830i,id-20904960,card-8cd889138a,gmail.com
+dev-04968363,iPhone 5,id-08019456,card-11c7ef16c7,dks.com
+dev-04968363,iPhone 5,id-46380544,card-11c7ef16c7,dkrf.com
+dev-54892927,Sony C6603 (C6603_1270-7689),id-75594752,card-c9b9e26d0a,aol.com
+dev-54892927,Sony C6603 (C6603_1270-7689),id-75594752,card-0c55a0926d,aol.com
+dev-54892927,Sony C6603 (C6603_1270-7689),id-75594752,card-3c204c2bcd,aol.com
+dev-a6ec70f1,,id-92796160,card-719c600e76,dkdj.com
+dev-54892927,Sony C6603 (C6603_1270-7689),id-75594752,card-41919058ec,aol.com
+dev-54892927,Sony C6603 (C6603_1270-7689),id-75594752,card-4f41a83b04,aol.com
+dev-54892927,Sony C6603 (C6603_1270-7689),id-75594752,card-286257c077,aol.com
+dev-54892927,Sony C6603 (C6603_1270-7689),id-75594752,card-ef0e56b7b1,aol.com
+dev-54892927,Sony C6603 (C6603_1270-7689),id-75594752,card-bab80e3f67,aol.com
+dev-54892927,Sony C6603 (C6603_1270-7689),id-75594752,card-90d851f64d,aol.com
+dev-a6ec70f1,ios,id-21355264,card-7fc1b208c8,vescom.com
+dev-a6ec70f1,ios,id-21355264,card-f62c9e0f51,vescom.com
+dev-04968363,iPhone 5,id-60179456,card-11c7ef16c7,cod.com
+dev-a6ec70f1,ios,id-20055040,card-7fc1b208c8,yahoo.co.uk
+dev-16C1B335,iPhone 4S,id-64675584,card-11c7ef16c7,flrf.com
+dev-a6ec70f1,ios,id-20055040,card-f62c9e0f51,yahoo.co.uk
+dev-21047cb3,samsung GT-I9300 (m0xx),id-94461696,card-f70595af3e,gmail.com
+dev-16C1B335,iPhone 4S,id-64675584,card-e4a5f8a41f,flrf.com
+dev-21047cb3,samsung GT-I9300 (m0xx),id-94461696,card-ce195c3c23,gmail.com
+dev-16C1B335,iPhone 4S,id-64675584,card-55e2ead2b2,flrf.com
+dev-21047cb3,samsung GT-I9300 (m0xx),id-94461696,card-9aba9e2a1a,gmail.com
+dev-21047cb3,samsung GT-I9300 (m0xx),id-94461696,card-de160174a5,gmail.com
+dev-21047cb3,samsung GT-I9300 (m0xx),id-94461696,card-54c077cb75,gmail.com
+dev-21047cb3,samsung GT-I9300 (m0xx),id-94461696,card-c913131da3,gmail.com
+dev-65668513,samsung GT-I9505 (jfltexx),id-72704000,card-c84f9980b3,au.ibm.com
+dev-21047cb3,samsung GT-I9300 (m0xx),id-94461696,card-b3f7d8832a,gmail.com
+dev-65668513,samsung GT-I9505 (jfltexx),id-72704000,card-ddadf6b2ac,au.ibm.com
+dev-21047cb3,samsung GT-I9300 (m0xx),id-94461696,card-c121e71f99,gmail.com
+dev-65668513,samsung GT-I9505 (jfltexx),id-72704000,card-51c59c00b9,au.ibm.com
+dev-a6ec70f1,iPhone 4,id-22524416,card-719c600e76,fuji.com
+dev-65668513,samsung GT-I9505 (jfltexx),id-72704000,card-9d389828ac,au.ibm.com
+dev-65668513,samsung GT-I9505 (jfltexx),id-72704000,card-944395b3bb,au.ibm.com
+dev-a6ec70f1,ios,id-67068416,card-7fc1b208c8,gmail.com
+dev-42671881,Sony Ericsson ST15i (ST15i_1250-2612),id-24588800,card-ab9b2255e1,yahoo.com
+dev-04968363,iPhone 5,id-63779328,card-11c7ef16c7,fkr.com
+dev-52480977,samsung GT-N7100 (t03gxx),id-84802304,card-ab9b2255e1,au.ey.com
+dev-04968363,iPhone 5,id-76676352,card-11c7ef16c7,cof.com
+dev-a6ec70f1,iPhone 4,id-66561536,card-719c600e76,jh.com
+dev-42671881,Sony Ericsson ST15i (ST15i_1250-2612),id-41136384,card-ab9b2255e1,gmail.com
+dev-77594469,samsung GT-N7100 (t03gxx),id-21212672,card-a30f38c1ad,yahoo.au
+dev-52480977,samsung GT-N7100 (t03gxx),id-10712064,card-ab9b2255e1,yahoo.com
+dev-77594469,samsung GT-N7100 (t03gxx),id-21212672,card-c65a63f428,yahoo.au
+dev-327897AB,iPhone 5,id-43838976,card-11c7ef16c7,joi.com
+dev-77594469,samsung GT-N7100 (t03gxx),id-21212672,card-a59aa73b98,yahoo.au
+dev-a6ec70f1,ios,id-31508992,card-7fc1b208c8,gmail.com
+dev-77594469,samsung GT-N7100 (t03gxx),id-21212672,card-d7944f4ba4,yahoo.au
+dev-a6ec70f1,ios,id-31508992,card-f62c9e0f51,gmail.com
+dev-77594469,samsung GT-N7100 (t03gxx),id-21212672,card-bb8e1e00ee,yahoo.au
+dev-77594469,samsung GT-N7100 (t03gxx),id-21212672,card-40af730235,yahoo.au
+dev-327897AB,iPhone 5,id-12229632,card-11c7ef16c7,dkdk.com
+dev-56511355,ios,id-24483328,card-7fc1b208c8,gmail.com
+dev-56511355,ios,id-24483328,card-f62c9e0f51,gmail.com
+dev-327897AB,iPhone 5,id-33002752,card-11c7ef16c7,cfid.com
+dev-a6ec70f1,ios,id-42340096,card-f62c9e0f51,eircom.net
+dev-a6ec70f1,iPhone 4,id-59165952,card-7fc1b208c8,dkfj.com
+dev-a6ec70f1,ios,id-08762880,card-f62c9e0f51,GMail.com
+dev-68335113,samsung SM-G900F (kltexx),id-14978304,card-a0b1af8dc5,hotmail.com
+dev-68335113,samsung SM-G900F (kltexx),id-14978304,card-523c1858bc,hotmail.com
+dev-68335113,samsung SM-G900F (kltexx),id-14978304,card-bc44515b2c,hotmail.com
+dev-68335113,samsung SM-G900F (kltexx),id-14978304,card-e773aa4286,hotmail.com
+dev-68335113,samsung SM-G900F (kltexx),id-14978304,card-53c72e99b2,hotmail.com
+dev-68335113,samsung SM-G900F (kltexx),id-14978304,card-a23998eba8,hotmail.com
+dev-a6ec70f1,ios,id-33003776,card-f62c9e0f51,hyd.com
+dev-68335113,samsung SM-G900F (kltexx),id-14978304,card-ef9efe17ae,hotmail.com
+dev-7A9637E1,iPhone 4,id-00448256,card-7fc1b208c8,cikk.com
+dev-7A9637E1,iPhone 4,id-00448256,card-f62c9e0f51,cikk.com
+dev-68335113,samsung SM-G900F (kltexx),id-14978304,card-6a734c57ff,hotmail.com
+dev-a6ec70f1,ios,id-19397376,card-f62c9e0f51,fff.com
+dev-a6ec70f1,ios,id-44625664,card-7fc1b208c8,sjdd.com
+dev-a6ec70f1,ios,id-44625664,card-f62c9e0f51,sjdd.com
+dev-a6ec70f1,ios,id-19465728,card-7fc1b208c8,gfh.com
+dev-a6ec70f1,ios,id-19465728,card-f62c9e0f51,gfh.com
+dev-a6ec70f1,iPhone 4,id-68320000,card-719c600e76,fif.com
+dev-DDB30469,iPhone 4,id-84481024,card-719c600e76,ff.com
+dev-42671881,Sony Ericsson ST15i (ST15i_1250-2612),id-90508032,card-ab9b2255e1,gmail.com
+dev-52480977,samsung GT-N7100 (t03gxx),id-74207488,card-ab9b2255e1,gmail.com
+dev-52034987,samsung GT-S5310 (corsicassxx),id-48788480,card-0ee7f3754b,hotmail.com
+dev-a6ec70f1,ios,id-01932288,card-f62c9e0f51,fhj.com
+dev-52034987,samsung GT-S5310 (corsicassxx),id-48788480,card-7648788480,hotmail.com
+dev-91C90AD4,iPhone 4S,id-320956,card-741cc4b985,yahoo.co.uk
+dev-52409398,samsung GT-I9300 (m0xx),id-44319744,card-f62c9e0f51,shdj.com
+dev-91C90AD4,iPhone 4S,id-320956,card-61bfdddbbb,yahoo.co.uk
+dev-43959202,HTC HTC Desire HD A9191 (htc_ace),id-62856704,card-7fc1b208c8,guj.com
+dev-91C90AD4,iPhone 4S,id-320956,card-09cf3e4bf5,yahoo.co.uk
+dev-43959202,HTC HTC Desire HD A9191 (htc_ace),id-62856704,card-f62c9e0f51,guj.com
+dev-91C90AD4,iPhone 4S,id-320956,card-a5f0c7aa99,yahoo.co.uk
+dev-a6ec70f1,ios,id-53989888,card-0653989888,adj.com
+dev-5B554BCE,iPhone 4S,id-363832,card-8cfa42fc9d,hotmail.com
+dev-a6ec70f1,ios,id-53989888,card-7fc1b208c8,adj.com
+dev-91C90AD4,iPhone 4S,id-320956,card-99b6a55d89,yahoo.co.uk
+dev-a6ec70f1,ios,id-53989888,card-f62c9e0f51,adj.com
+dev-5B554BCE,iPhone 4S,id-363832,card-d02a55aff8,hotmail.com
+dev-91C90AD4,iPhone 4S,id-320956,card-25b66e5922,yahoo.co.uk
+dev-a6ec70f1,ios,id-92443392,card-7fc1b208c8,dusi.com
+dev-5B554BCE,iPhone 4S,id-363832,card-51389d803f,hotmail.com
+dev-5B554BCE,iPhone 4S,id-363832,card-d9201c797d,hotmail.com
+dev-5B554BCE,iPhone 4S,id-363832,card-177d19369f,hotmail.com
+dev-5B554BCE,iPhone 4S,id-363832,card-b01181a05b,hotmail.com
+dev-a6ec70f1,ios,id-69198592,card-7fc1b208c8,hdd.com
+dev-a6ec70f1,ios,id-69198592,card-f62c9e0f51,hdd.com
+dev-a6ec70f1,ios,id-02695680,card-7fc1b208c8,ghj.com
+dev-3f6bd887,,id-21359616,card-95bc336d81,yahoo.au
+dev-A38CA065,iPad4-1,id-12179200,card-1f990464c1,gmail.com
+dev-a6ec70f1,ios,id-02695680,card-f62c9e0f51,ghj.com
+dev-3f6bd887,,id-21359616,card-cb35871ed3,yahoo.au
+dev-a6ec70f1,ios,id-29259520,card-7fc1b208c8,fiu.com
+dev-3f6bd887,,id-21359616,card-4e4de5444c,yahoo.au
+dev-a6ec70f1,ios,id-29259520,card-f62c9e0f51,fiu.com
+dev-3f6bd887,,id-21359616,card-54b8b64c7e,yahoo.au
+dev-C0EFF4D5,iPhone 5c,id-33183488,card-f62c9e0f51,hdjdh.com
+dev-3f6bd887,,id-21359616,card-e375b7a96b,yahoo.au
+dev-8101F757,iPhone 5c,id-26690560,card-04fd0962b2,mail.dcu.au
+dev-42671881,Sony Ericsson ST15i (ST15i_1250-2612),id-50222848,card-ab9b2255e1,gmail.com
+dev-8101F757,iPhone 5c,id-26690560,card-f3de73e728,mail.dcu.au
+dev-8101F757,iPhone 5c,id-26690560,card-2cac246193,mail.dcu.au
+dev-48273BAD,iPad 4,id-53024000,card-ab9b2255e1,yahoo.com
+dev-8101F757,iPhone 5c,id-26690560,card-8a1b27cf28,mail.dcu.au
+dev-47B9D75D,iPhone 5,id-73531392,card-0c08bf2a2e,yahoo.com
+dev-8101F757,iPhone 5c,id-26690560,card-2826690560,mail.dcu.au
+dev-47B9D75D,iPhone 5,id-73531392,card-2ee202703f,yahoo.com
+dev-8101F757,iPhone 5c,id-26690560,card-f21d60bf02,mail.dcu.au
+dev-47B9D75D,iPhone 5,id-73531392,card-7c1a96439a,yahoo.com
+dev-8101F757,iPhone 5c,id-26690560,card-d42b8f8ef0,mail.dcu.au
+dev-47B9D75D,iPhone 5,id-73531392,card-75544ec5ad,yahoo.com
+dev-26126FD1,iPhone 5S,id-53332992,card-158bb079d1,hotmail.com
+dev-47B9D75D,iPhone 5,id-73531392,card-2509e4522f,yahoo.com
+dev-26126FD1,iPhone 5S,id-53332992,card-59f9e36e8c,hotmail.com
+dev-47B9D75D,iPhone 5,id-73531392,card-3abe237909,yahoo.com
+dev-26126FD1,iPhone 5S,id-53332992,card-b8100435f5,hotmail.com
+dev-26126FD1,iPhone 5S,id-53332992,card-ba9387cabc,hotmail.com
+dev-3f6bd887,,id-01859072,card-e375b7a96b,gmail.com
+dev-26126FD1,iPhone 5S,id-53332992,card-e40256d94f,hotmail.com
+dev-3f6bd887,,id-01859072,card-e89856a394,gmail.com
+dev-26126FD1,iPhone 5S,id-53332992,card-d2f21e0290,hotmail.com
+dev-26126FD1,iPhone 5S,id-53332992,card-a87ca5943a,hotmail.com
+dev-26126FD1,iPhone 5S,id-53332992,card-b9ee900311,hotmail.com
+dev-DDB30469,iPhone 4,id-79681280,card-719c600e76,didi.com
+dev-a6ec70f1,ios,id-63608576,card-7fc1b208c8,2737.com
+dev-a6ec70f1,ios,id-63608576,card-f62c9e0f51,2737.com
+dev-CCA9B749,iPhone 4S,id-71810048,card-bfe9e2c259,hotmail.com
+dev-a6ec70f1,ios,id-34150144,card-f62c9e0f51,hhh.com
+dev-351a17b3,ios,id-16534528,card-fdb8977086,mailinator.com
+dev-E863D094,iPhone 5,id-04886272,card-b92a18916c,ckfor.com
+dev-351a17b3,ios,id-16534528,card-df319c106c,mailinator.com
+dev-0765DB5B,iPhone 5,id-07569152,card-b92a18916c,hoo.com
+dev-351a17b3,ios,id-16534528,card-f98a809feb,mailinator.com
+dev-DEE959E4,iPhone 5,id-55651584,card-b92a18916c,hoo.com
+dev-351a17b3,ios,id-16534528,card-66f55b55fe,mailinator.com
+dev-351a17b3,ios,id-16534528,card-4416534528,mailinator.com
+dev-288277CE,iPhone 5S,id-38839808,card-b92a18916c,klk.com
+dev-351a17b3,ios,id-16534528,card-9c50a9af46,mailinator.com
+dev-351a17b3,ios,id-16534528,card-bdcc55bcb4,mailinator.com
+dev-351a17b3,ios,id-16534528,card-8b54b0b17f,mailinator.com
+dev-55976206,samsung GT-I8190 (goldenxx),id-89671680,card-fb6eb0fb1b,hotmail.com
+dev-351a17b3,ios,id-16534528,card-d7aa3b4f57,mailinator.com
+dev-351a17b3,ios,id-16534528,card-eda5696bb8,mailinator.com
+dev-351a17b3,ios,id-16534528,card-c82a2b7e44,mailinator.com
+dev-52674375,samsung GT-I8730 (expressltexx),id-47998976,card-b92a18916c,joi.com
+dev-42671881,Sony Ericsson ST15i (ST15i_1250-2612),id-72207104,card-ab9b2255e1,gmail.com
+dev-351a17b3,ios,id-16534528,card-5d8d2f66d2,mailinator.com
+dev-04968363,iPhone 5,id-80163840,card-f62c9e0f51,fuu.com
+dev-a6ec70f1,ios,id-61435136,card-f62c9e0f51,gij.com
+dev-59222482,samsung GT-I9505 (jfltexx),id-328819,card-f62c9e0f51,yahoo.co.uk
+dev-C024C145,iPhone 5S,id-77365248,card-b92a18916c,jok.com
+dev-b6a78b8b,iPhone 5,id-65755648,card-8665755648,tcd.au
+dev-b6a78b8b,iPhone 5,id-65755648,card-bf7761cad0,tcd.au
+dev-b6a78b8b,iPhone 5,id-65755648,card-a50d1bf189,tcd.au
+dev-51D45830,iPhone 5,id-23437056,card-3fe74d61f8,gmx.us
+dev-b6a78b8b,iPhone 5,id-65755648,card-3fe74d61f8,tcd.au
+dev-F521CED0,iPhone 4S,id-02134016,card-f759d4697e,yahoo.ir
+dev-F521CED0,iPhone 4S,id-02134016,card-6c50f77dea,yahoo.ir
+dev-F521CED0,iPhone 4S,id-02134016,card-9c32a754a2,yahoo.ir
+dev-B503A65F,iPhone 5,id-13171712,card-7fc1b208c8,dkdk.com
+dev-F521CED0,iPhone 4S,id-02134016,card-feac71a0e0,yahoo.ir
+dev-B503A65F,iPhone 5,id-13171712,card-719c600e76,dkdk.com
+dev-55936229,samsung GT-I9195 (serranoltexx),id-03842048,card-1df1b74fe6,live.au
+dev-F521CED0,iPhone 4S,id-02134016,card-7c855f595b,yahoo.ir
+dev-55936229,samsung GT-I9195 (serranoltexx),id-03842048,card-6a00c620d5,live.au
+dev-55936229,samsung GT-I9195 (serranoltexx),id-03842048,card-1adc409a1c,live.au
+dev-F521CED0,iPhone 4S,id-02134016,card-e443d5a7cb,yahoo.ir
+dev-55936229,samsung GT-I9195 (serranoltexx),id-03842048,card-428afad22d,live.au
+dev-F521CED0,iPhone 4S,id-02134016,card-b84313541f,yahoo.ir
+dev-0377CBC9,iPhone 5,id-405193,card-5d156d91c8,gmail.com
+dev-0377CBC9,iPhone 5,id-405193,card-0ff508663d,gmail.com
+dev-F521CED0,iPhone 4S,id-02134016,card-5cc47be3f9,yahoo.ir
+dev-0377CBC9,iPhone 5,id-405193,card-a7d74d7c4b,gmail.com
+dev-A38CA065,iPad4-1,id-20676096,card-1f990464c1,gmail.com
+dev-503ABF07,iPhone 5c,id-70836736,card-8af0416be0,gmail.com
+dev-08806A70,iPhone 5,id-70563072,card-7fc1b208c8,jcjfj.com
+dev-65179953,HTC HTC One mini 2 (o2_uk),id-428101,card-8af0416be0,rabobank.com
+dev-65179953,HTC HTC One mini 2 (o2_uk),id-428101,card-e4a5f8a41f,rabobank.com
+dev-a6ec70f1,ios,id-80958208,card-7fc1b208c8,dkdk.com
+dev-65179953,HTC HTC One mini 2 (o2_uk),id-428101,card-8cd889138a,rabobank.com
+dev-a6ec70f1,ios,id-80958208,card-f62c9e0f51,dkdk.com
+dev-65179953,HTC HTC One mini 2 (o2_uk),id-428101,card-f62c9e0f51,rabobank.com
+dev-57804087,samsung GT-I9505 (jfltexx),id-369142,card-af58b36957,betfair.com
+dev-57804087,samsung GT-I9505 (jfltexx),id-369142,card-122d72ab5d,betfair.com
+dev-57804087,samsung GT-I9505 (jfltexx),id-369142,card-f242b50f8d,betfair.com
+dev-14177216,samsung GT-I9300 (m0xx),id-61842176,card-85a409d456,yahoo.au
+dev-08806A70,iPhone 5,id-99208960,card-719c600e76,fidu.com
+dev-57804087,samsung GT-I9505 (jfltexx),id-369142,card-10287bd151,betfair.com
+dev-14177216,samsung GT-I9300 (m0xx),id-61842176,card-62e3de023a,yahoo.au
+dev-04968363,iPhone 5,id-76706304,card-8cd889138a,gij.com
+dev-04968363,iPhone 5,id-76706304,card-f62c9e0f51,gij.com
+dev-57804087,samsung GT-I9505 (jfltexx),id-369142,card-b12cd9fc8d,betfair.com
+dev-14177216,samsung GT-I9300 (m0xx),id-61842176,card-8aab77df68,yahoo.au
+dev-57804087,samsung GT-I9505 (jfltexx),id-369142,card-67a546b241,betfair.com
+dev-14177216,samsung GT-I9300 (m0xx),id-61842176,card-0174624782,yahoo.au
+dev-14177216,samsung GT-I9300 (m0xx),id-61842176,card-fb6eb0fb1b,yahoo.au
+dev-57804087,samsung GT-I9505 (jfltexx),id-369142,card-5d90440850,betfair.com
+dev-567B0619,iPhone 4S,id-450232,card-3c1807a267,msn.com
+dev-14177216,samsung GT-I9300 (m0xx),id-61842176,card-42d5e6f1a0,yahoo.au
+dev-567B0619,iPhone 4S,id-450232,card-6630f185b2,msn.com
+dev-14177216,samsung GT-I9300 (m0xx),id-61842176,card-6a734c57ff,yahoo.au
+dev-567B0619,iPhone 4S,id-450232,card-735a7dfd5b,msn.com
+dev-a6ec70f1,ios,id-62754816,card-7fc1b208c8,hij.com
+dev-CB375AFF,iPhone 5,id-17504768,card-719c600e76,fifo.com
+dev-14177216,samsung GT-I9300 (m0xx),id-61842176,card-e7e8389ef7,yahoo.au
+dev-a6ec70f1,ios,id-62754816,card-f62c9e0f51,hij.com
+dev-51953222,samsung GT-N7100 (t03gxx),id-02847744,card-1f990464c1,hotmail.com
+dev-11A393EE,iPhone 4,id-18636800,card-a51554c18c,hotmail.com
+dev-11A393EE,iPhone 4,id-18636800,card-46072491fc,hotmail.com
+dev-11A393EE,iPhone 4,id-18636800,card-9231ed48bd,hotmail.com
+dev-11A393EE,iPhone 4,id-18636800,card-65e4d319ac,hotmail.com
+dev-11A393EE,iPhone 4,id-18636800,card-876bd598af,hotmail.com
+dev-11A393EE,iPhone 4,id-18636800,card-aa95442161,hotmail.com
+dev-a6ec70f1,ios,id-29004800,card-f62c9e0f51,dkdk.com
+dev-077FAAAC,iPhone 4,id-49868032,card-b5412fddab,hotmail.com
+dev-DC5AC413,iPhone 5S,id-468025,card-631f0b336f,hotmail.com
+dev-077FAAAC,iPhone 4,id-49868032,card-709be31073,hotmail.com
+dev-DC5AC413,iPhone 5S,id-468025,card-677ec4f354,hotmail.com
+dev-077FAAAC,iPhone 4,id-49868032,card-5d57d6a18e,hotmail.com
+dev-DC5AC413,iPhone 5S,id-468025,card-8ecd493c59,hotmail.com
+dev-077FAAAC,iPhone 4,id-49868032,card-462e153878,hotmail.com
+dev-DC5AC413,iPhone 5S,id-468025,card-a4e08ee722,hotmail.com
+dev-077FAAAC,iPhone 4,id-49868032,card-5e5e29f2bb,hotmail.com
+dev-DC5AC413,iPhone 5S,id-468025,card-8f11284fe3,hotmail.com
+dev-DC5AC413,iPhone 5S,id-468025,card-00c9c3eb85,hotmail.com
+dev-AEE72A2D,iPhone 5,id-44074496,card-719c600e76,yry.com
+dev-54110338,HTC HTC One mini (vodafone_uk),id-75553280,card-55e2ead2b2,op.pl
+dev-AEE72A2D,iPhone 5,id-55638528,card-719c600e76,yuu.com
+dev-8233d9ae,ios,id-477055,card-d50ecd4adb,yahoo.au
+dev-55701606,samsung GT-I9305 (m3xx),id-23270144,card-fb6eb0fb1b,gmail.com
+dev-8233d9ae,ios,id-477055,card-4ec3dedb72,yahoo.au
+dev-55701606,samsung GT-I9305 (m3xx),id-23270144,card-833c935622,gmail.com
+dev-8233d9ae,ios,id-477055,card-9cc2059b9e,yahoo.au
+dev-50758750,LGE Nexus 4 (occam),id-50541824,card-1f990464c1,gmail.com
+dev-8233d9ae,ios,id-477055,card-cfe34195b7,yahoo.au
+dev-8233d9ae,ios,id-477055,card-b7633ef679,yahoo.au
+dev-E4970C81,iPhone 4,id-51288576,card-719c600e76,ju.com
+dev-8233d9ae,ios,id-477055,card-4fcadd11b9,yahoo.au
+dev-E3DA4210,iPhone 3GS,id-76386048,card-92bf075c78,hotmail.com
+dev-8233d9ae,ios,id-477055,card-d7becd0288,yahoo.au
+dev-E3DA4210,iPhone 3GS,id-76386048,card-ed652bb05b,hotmail.com
+dev-8233d9ae,ios,id-477055,card-32207a1778,yahoo.au
+dev-8233d9ae,ios,id-477055,card-0991d644d4,yahoo.au
+dev-8233d9ae,ios,id-477055,card-4019823938,yahoo.au
+dev-8233d9ae,ios,id-477055,card-10ce137327,yahoo.au
+dev-A725C628,iPhone 5,id-40005376,card-d4e2edbfa2,fifo.com
+dev-A725C628,iPhone 5,id-40005376,card-7fc1b208c8,fifo.com
+dev-8233d9ae,ios,id-477055,card-59ce135fe5,yahoo.au
+dev-A725C628,iPhone 5,id-40005376,card-719c600e76,fifo.com
+dev-8233d9ae,ios,id-477055,card-999a1beaf2,yahoo.au
+dev-8233d9ae,ios,id-477055,card-f388608632,yahoo.au
+dev-56784325,samsung GT-I9505 (jfltexx),id-76710400,card-9a9217be1a,outlook.com
+dev-7A9637E1,iPhone 4,id-477943,card-7fc1b208c8,gmail.com
+dev-7A9637E1,iPhone 4,id-477943,card-f62c9e0f51,gmail.com
+dev-56784325,samsung GT-I9505 (jfltexx),id-76710400,card-d29abdf05d,outlook.com
+dev-56784325,samsung GT-I9505 (jfltexx),id-76710400,card-366d70467b,outlook.com
+dev-56784325,samsung GT-I9505 (jfltexx),id-76710400,card-a433d20bad,outlook.com
+dev-50449052,Sony C6603,id-31254784,card-515e5af549,gmail.com
+dev-13063360,HUAWEI Ascend G300 (U8815),id-480853,card-f62c9e0f51,gmail.com
+dev-50449052,Sony C6603,id-31254784,card-416f9e8618,gmail.com
+dev-56784325,samsung GT-I9505 (jfltexx),id-76710400,card-137ae0d833,outlook.com
+dev-50449052,Sony C6603,id-31254784,card-8ba9623ad2,gmail.com
+dev-56784325,samsung GT-I9505 (jfltexx),id-76710400,card-93bcb75da7,outlook.com
+dev-50449052,Sony C6603,id-31254784,card-9e0c2fa770,gmail.com
+dev-56784325,samsung GT-I9505 (jfltexx),id-76710400,card-7468bf9aa0,outlook.com
+dev-351a17b3,ios,id-492766,card-299c54ea14,mail.com
+dev-50449052,Sony C6603,id-31254784,card-b7e87c7c7d,gmail.com
+dev-56784325,samsung GT-I9505 (jfltexx),id-76710400,card-757077141c,outlook.com
+dev-351a17b3,ios,id-492766,card-128b4ab8be,mail.com
+dev-50449052,Sony C6603,id-31254784,card-f951d23603,gmail.com
+dev-351a17b3,ios,id-492766,card-5f568722db,mail.com
+dev-50449052,Sony C6603,id-31254784,card-7801b8730d,gmail.com
+dev-8F10F549,iPhone 4,id-42282496,card-719c600e76,hi.com
+dev-351a17b3,ios,id-492766,card-64eead5429,mail.com
+dev-52480977,samsung GT-N7100 (t03gxx),id-01080576,card-ab9b2255e1,gmail.com
+dev-8F10F549,iPhone 4,id-87941376,card-719c600e76,iik.com
+dev-351a17b3,ios,id-492766,card-acab1e041a,mail.com
+dev-351a17b3,ios,id-492766,card-5650126d7a,mail.com
+dev-351a17b3,ios,id-492766,card-5078a1b139,mail.com
+dev-351a17b3,ios,id-492766,card-1c26b040a3,mail.com
+dev-351a17b3,ios,id-492766,card-89c1cdeaca,mail.com
+dev-351a17b3,ios,id-492766,card-747da6073d,mail.com
+dev-9436065B,iPhone 5,id-48009984,card-719c600e76,dkdd.com
+dev-351a17b3,ios,id-492766,card-809d48e2a2,mail.com
+dev-351a17b3,ios,id-492766,card-ab5d19ef59,mail.com
+dev-2E262B18,iPhone 4S,id-15293952,card-a0544c38a9,hotmail.com
+dev-351a17b3,ios,id-492766,card-c75d971415,mail.com
+dev-2E262B18,iPhone 4S,id-15293952,card-80fa211684,hotmail.com
+dev-351a17b3,ios,id-492766,card-00887fab62,mail.com
+dev-2E262B18,iPhone 4S,id-15293952,card-12154ab262,hotmail.com
+dev-351a17b3,ios,id-492766,card-6af7fae7a7,mail.com
+dev-3C03919B,iPhone 4,id-03773440,card-254b654201,yahoo.au
+dev-2E262B18,iPhone 4S,id-15293952,card-b88203ed32,hotmail.com
+dev-351a17b3,ios,id-492766,card-7389f7636e,mail.com
+dev-3C03919B,iPhone 4,id-03773440,card-2fe6f5d34f,yahoo.au
+dev-2E262B18,iPhone 4S,id-15293952,card-9ac0befcaf,hotmail.com
+dev-351a17b3,ios,id-492766,card-330919afb8,mail.com
+dev-3C03919B,iPhone 4,id-03773440,card-470efc914f,yahoo.au
+dev-351a17b3,ios,id-492766,card-19abe30fec,mail.com
+dev-e8ee08d4,asus Nexus 7 (nakasi),id-68828160,card-1f990464c1,gmail.com
+dev-3C03919B,iPhone 4,id-03773440,card-8cf8df6a35,yahoo.au
+dev-351a17b3,ios,id-492766,card-94cb1a8a08,mail.com
+dev-3C03919B,iPhone 4,id-03773440,card-3d409da7f4,yahoo.au
+dev-726A5E51,iPhone 4S,id-26241536,card-65e0ad0a8f,hotmail.com
+dev-351a17b3,ios,id-492766,card-f0e0dba91e,mail.com
+dev-726A5E51,iPhone 4S,id-26241536,card-80fa211684,hotmail.com
+dev-3C03919B,iPhone 4,id-03773440,card-1c4f1960a3,yahoo.au
+dev-45277901,samsung GT-I9100,id-87329792,card-849d334c4e,gamail.com
+dev-726A5E51,iPhone 4S,id-26241536,card-12154ab262,hotmail.com
+dev-351a17b3,ios,id-492766,card-f90f24aab9,mail.com
+dev-45277901,samsung GT-I9100,id-87329792,card-1f990464c1,gamail.com
+dev-8953BB05,iPad 3,id-18480384,card-735a7dfd5b,gmail.com
+dev-726A5E51,iPhone 4S,id-26241536,card-9ac0befcaf,hotmail.com
+dev-3C03919B,iPhone 4,id-03773440,card-510778f6a6,yahoo.au
+dev-726A5E51,iPhone 4S,id-26241536,card-a0544c38a9,hotmail.com
+dev-351a17b3,ios,id-492766,card-e48b2211a6,mail.com
+dev-52480977,samsung GT-N7100 (t03gxx),id-75112960,card-ab9b2255e1,yahoo.com
+dev-726A5E51,iPhone 4S,id-26241536,card-b88203ed32,hotmail.com
+dev-3C03919B,iPhone 4,id-03773440,card-61845fd01d,yahoo.au
+dev-351a17b3,ios,id-492766,card-805ef76eb9,mail.com
+dev-15236739,TCT ALCATEL ONE TOUCH 4010X (Beetle_Lite),id-62601472,card-8cd889138a,gmail.com
+dev-726A5E51,iPhone 4S,id-26241536,card-9a689cf63d,hotmail.com
+dev-3C03919B,iPhone 4,id-03773440,card-e9ab6fa4cd,yahoo.au
+dev-351a17b3,ios,id-492766,card-47948e84ee,mail.com
+dev-726A5E51,iPhone 4S,id-26241536,card-a51f0b84c6,hotmail.com
+dev-3C03919B,iPhone 4,id-03773440,card-2dff005851,yahoo.au
+dev-351a17b3,ios,id-492766,card-eda5696bb8,mail.com
+dev-3C03919B,iPhone 4,id-03773440,card-91af52fb18,yahoo.au
+dev-351a17b3,ios,id-492766,card-c48cb9f5dc,mail.com
+dev-55886956,samsung GT-S5570,id-97213440,card-5ec8c2baf8,outlook.com
+dev-351a17b3,ios,id-492766,card-a42faea620,mail.com
+dev-55886956,samsung GT-S5570,id-97213440,card-bc8a686c55,outlook.com
+dev-55886956,samsung GT-S5570,id-97213440,card-dc918f4328,outlook.com
+dev-a6ec70f1,ios,id-68990720,card-7fc1b208c8,hyu.com
+dev-55886956,samsung GT-S5570,id-97213440,card-55a5ccd9bb,outlook.com
+dev-54971459,samsung GT-I9505 (jfltexx),id-56819968,card-4e278c9c09,me.com
+dev-55886956,samsung GT-S5570,id-97213440,card-f47df13399,outlook.com
+dev-54971459,samsung GT-I9505 (jfltexx),id-56819968,card-2108f1e208,me.com
+dev-55886956,samsung GT-S5570,id-97213440,card-e0420b8922,outlook.com
+dev-54971459,samsung GT-I9505 (jfltexx),id-56819968,card-c0ccdf4756,me.com
+dev-55886956,samsung GT-S5570,id-97213440,card-f04d6f284f,outlook.com
+dev-54971459,samsung GT-I9505 (jfltexx),id-56819968,card-bfe9e2c259,me.com
+dev-DB2A00FA,iPhone 4S,id-45812224,card-047450c5bb,yahoo.com.cn
+dev-42671881,Sony Ericsson ST15i (ST15i_1250-2612),id-28541952,card-ab9b2255e1,gmail.com
+dev-DB2A00FA,iPhone 4S,id-45812224,card-2cf0f5c36c,yahoo.com.cn
+dev-52480977,samsung GT-N7100 (t03gxx),id-94555136,card-ab9b2255e1,gmail.com
+dev-DB2A00FA,iPhone 4S,id-45812224,card-23919dfda7,yahoo.com.cn
+dev-DB2A00FA,iPhone 4S,id-45812224,card-a9c61bfee6,yahoo.com.cn
+dev-DB2A00FA,iPhone 4S,id-45812224,card-4fd2eff384,yahoo.com.cn
+dev-839CC108,iPhone 5,id-85158144,card-576a437c19,gmail.com
+dev-DA8B6108,iPhone 4,id-08846080,card-0ee7f3754b,live.com
+dev-839CC108,iPhone 5,id-85158144,card-feded9800c,gmail.com
+dev-62521712,samsung SM-G900F (kltexx),id-21605120,card-a0af47878f,gmail.com
+dev-3E553500,iPhone 4S,id-42812160,card-feac71a0e0,gmail.com
+dev-839CC108,iPhone 5,id-85158144,card-610067bce8,gmail.com
+dev-62521712,samsung SM-G900F (kltexx),id-21605120,card-ae60b22a36,gmail.com
+dev-839CC108,iPhone 5,id-85158144,card-60a277d27b,gmail.com
+dev-62521712,samsung SM-G900F (kltexx),id-21605120,card-2e113dea05,gmail.com
+dev-839CC108,iPhone 5,id-85158144,card-2c63493172,gmail.com
+dev-62521712,samsung SM-G900F (kltexx),id-21605120,card-002a8337f2,gmail.com
+dev-662BE688,iPhone 4,id-48050176,card-719c600e76,gui.com
+dev-62521712,samsung SM-G900F (kltexx),id-21605120,card-f6d01b5deb,gmail.com
+dev-E10969ED,iPhone 4,id-02750464,card-719c600e76,fkdif.com
+dev-62521712,samsung SM-G900F (kltexx),id-21605120,card-704fbb0430,gmail.com
+dev-D1D8E380,iPhone 4,id-53706752,card-719c600e76,jok.com
+dev-a6ec70f1,ios,id-62339328,card-f62c9e0f51,gij.com
+dev-662BE688,iPhone 4,id-80814592,card-719c600e76,hii.com
+dev-5E15F6E2,iPhone 5S,id-91004672,card-bdb2bd2d11,gmail.com
+dev-5E15F6E2,iPhone 5S,id-91004672,card-af6ccfb5fe,gmail.com
+dev-5E15F6E2,iPhone 5S,id-91004672,card-39e3886811,gmail.com
+dev-5E15F6E2,iPhone 5S,id-91004672,card-b1e1b3ee1e,gmail.com
+dev-5E15F6E2,iPhone 5S,id-91004672,card-39160b1baa,gmail.com
+dev-D1D8E380,iPhone 4,id-40420864,card-6240420864,gjj.com
+dev-D1D8E380,iPhone 4,id-40420864,card-719c600e76,gjj.com
+dev-5E15F6E2,iPhone 5S,id-91004672,card-a37616cf1e,gmail.com
+dev-52480977,samsung GT-N7100 (t03gxx),id-92182272,card-ab9b2255e1,gmail.com
+dev-a6ec70f1,ios,id-37825792,card-f62c9e0f51,djdd.com
+dev-501705BF,iPhone 5,id-69337856,card-74dda2c44b,hotmail.com
+dev-501705BF,iPhone 5,id-69337856,card-cb884451ad,hotmail.com
+dev-42238029,samsung GT-P1000,id-35891968,card-204f5f9a2b,gmail.com
+dev-501705BF,iPhone 5,id-69337856,card-82db9c6612,hotmail.com
+dev-42238029,samsung GT-P1000,id-35891968,card-3fe74d61f8,gmail.com
+dev-501705BF,iPhone 5,id-69337856,card-6146d64593,hotmail.com
+dev-501705BF,iPhone 5,id-69337856,card-fc7898e6fd,hotmail.com
+dev-501705BF,iPhone 5,id-69337856,card-24a3c948c6,hotmail.com
+dev-D2B4D3B2,iPhone 4,id-82378752,card-11c7ef16c7,fdo.com
+dev-a6ec70f1,ios,id-33424640,card-f62c9e0f51,utt.com
+dev-D2B4D3B2,iPhone 4,id-82378752,card-d4e2edbfa2,fdo.com
+dev-D2B4D3B2,iPhone 4,id-82378752,card-7fc1b208c8,fdo.com
+dev-a6ec70f1,ios,id-53962240,card-f62c9e0f51,fdi.com
+dev-D2B4D3B2,iPhone 4,id-82378752,card-8cd889138a,fdo.com
+dev-E10969ED,iPhone 4,id-45708288,card-719c600e76,fofd.com
+dev-a6ec70f1,ios,id-69985792,card-7fc1b208c8,fui.com
+dev-E10969ED,iPhone 4,id-33634304,card-719c600e76,fii.com
+dev-DB6F89AD,iPhone 4S,id-56615424,card-6ea77db551,yahoo.com
+dev-DB6F89AD,iPhone 4S,id-56615424,card-09aa960970,yahoo.com
+dev-DB6F89AD,iPhone 4S,id-56615424,card-e159dfb423,yahoo.com
+dev-a6ec70f1,ios,id-58690560,card-f62c9e0f51,gui.com
+dev-DB6F89AD,iPhone 4S,id-56615424,card-309301f428,yahoo.com
+dev-57933360,samsung GT-I9300 (m0xx),id-39003904,card-0ee7f3754b,gmail.com
+dev-DB6F89AD,iPhone 4S,id-56615424,card-9c7e1928d5,yahoo.com
+dev-57933360,samsung GT-I9300 (m0xx),id-39003904,card-7c8e4b0275,gmail.com
+dev-DB6F89AD,iPhone 4S,id-56615424,card-30510292cf,yahoo.com
+dev-57933360,samsung GT-I9300 (m0xx),id-39003904,card-c785341fe2,gmail.com
+dev-DB6F89AD,iPhone 4S,id-56615424,card-c198dce51c,yahoo.com
+dev-DB6F89AD,iPhone 4S,id-56615424,card-30ded5f7ce,yahoo.com
+dev-a6ec70f1,ios,id-29323008,card-f62c9e0f51,hij.com
+dev-60166451,samsung SM-N9005 (hltexx),id-74787584,card-04b49c94f5,yahoo.com
+dev-60166451,samsung SM-N9005 (hltexx),id-74787584,card-a6dd80fc96,yahoo.com
+dev-7B2F509E,iPhone 4,id-46370816,card-7fc1b208c8,ffkd.com
+dev-60166451,samsung SM-N9005 (hltexx),id-74787584,card-7f148f1abc,yahoo.com
+dev-60166451,samsung SM-N9005 (hltexx),id-74787584,card-a8fbce8037,yahoo.com
+dev-60166451,samsung SM-N9005 (hltexx),id-74787584,card-83d469c49a,yahoo.com
+dev-60166451,samsung SM-N9005 (hltexx),id-74787584,card-fea0733ba6,yahoo.com
+dev-DCB8DAB7,iPhone 5,id-08132608,card-e4a5f8a41f,koo.com
+dev-DCB8DAB7,iPhone 5,id-53865728,card-e4a5f8a41f,dgg.com
+dev-53361161,samsung GT-I9300 (m0xx),id-84720128,card-80c6faf5ef,yahoo.com
+dev-DCB8DAB7,iPhone 5,id-28522496,card-e4a5f8a41f,fkr.com
+dev-53361161,samsung GT-I9300 (m0xx),id-84720128,card-689763288c,yahoo.com
+dev-53361161,samsung GT-I9300 (m0xx),id-84720128,card-f59343e5a1,yahoo.com
+dev-53361161,samsung GT-I9300 (m0xx),id-84720128,card-2d1e1c7fc3,yahoo.com
+dev-53361161,samsung GT-I9300 (m0xx),id-84720128,card-b8bf0a73fc,yahoo.com
+dev-53361161,samsung GT-I9300 (m0xx),id-84720128,card-c198dce51c,yahoo.com
+dev-53361161,samsung GT-I9300 (m0xx),id-84720128,card-1c67a3eff8,yahoo.com
+dev-53361161,samsung GT-I9300 (m0xx),id-84720128,card-81f5679242,yahoo.com
+dev-a6ec70f1,ios,id-01466368,card-7fc1b208c8,dd.com
+dev-53361161,samsung GT-I9300 (m0xx),id-84720128,card-b2135b58fb,yahoo.com
+dev-a6ec70f1,ios,id-01466368,card-f62c9e0f51,dd.com
+dev-60172251,samsung SM-N9005 (hltexx),id-82020352,card-0a9d0b0def,gmail.com
+dev-60172251,samsung SM-N9005 (hltexx),id-82020352,card-ce862fd7be,gmail.com
+dev-9ECBA2E7,iPhone 3GS,id-19829504,card-4519829504,idid.com
+dev-9ECBA2E7,iPhone 3GS,id-19829504,card-7fc1b208c8,idid.com
+dev-47991027,HTC HTC One S (ville),id-98873344,card-7c8e4b0275,live.com
+dev-a6ec70f1,ios,id-44742144,card-f62c9e0f51,gjj.com
+dev-a6ec70f1,ios,id-97062656,card-f62c9e0f51,didk.com
+dev-a6ec70f1,ios,id-53595136,card-f62c9e0f51,ghh.com
+dev-613e0260,iPhone 4,id-14702080,card-64fe2a1338,gmail.com
+dev-613e0260,iPhone 4,id-14702080,card-f62c9e0f51,gmail.com
+dev-a6ec70f1,ios,id-19050752,card-f62c9e0f51,cifj.com
+dev-4b188570,ios,id-61941248,card-7714c06b9d,mailinator.com
+dev-4b188570,ios,id-61941248,card-02d1b6a78f,mailinator.com
+dev-4b188570,ios,id-61941248,card-26eeac60b5,mailinator.com
+dev-4b188570,ios,id-61941248,card-44719fe76b,mailinator.com
+dev-4b188570,ios,id-61941248,card-7b6b817e6c,mailinator.com
+dev-AA070890,iPhone 4,id-26055680,card-3aa4fdc172,hotmail.com
+dev-4b188570,ios,id-61941248,card-80154f52fe,mailinator.com
+dev-AA070890,iPhone 4,id-26055680,card-92e7a211fe,hotmail.com
+dev-4b188570,ios,id-61941248,card-01cd92500e,mailinator.com
+dev-AA070890,iPhone 4,id-26055680,card-650b7e9cfa,hotmail.com
+dev-AA070890,iPhone 4,id-26055680,card-dcd0dbd29f,hotmail.com
+dev-C0EFF4D5,iPhone 5c,id-42023680,card-f62c9e0f51,hij.com
+dev-AA070890,iPhone 4,id-26055680,card-3c2b5bf8d5,hotmail.com
+dev-63883171,samsung GT-I9505 (jfltexx),id-352933,card-d9201c797d,gmail.com
+dev-AA070890,iPhone 4,id-26055680,card-cd68e6390f,hotmail.com
+dev-63883171,samsung GT-I9505 (jfltexx),id-352933,card-352933,gmail.com
+dev-0C6C6FBA,iPhone 4,id-11419904,card-d673580e2a,hotmail.com
+dev-AA070890,iPhone 4,id-26055680,card-7ce4b9713c,hotmail.com
+dev-63883171,samsung GT-I9505 (jfltexx),id-352933,card-177d19369f,gmail.com
+dev-0C6C6FBA,iPhone 4,id-11419904,card-735a7dfd5b,hotmail.com
+dev-AA070890,iPhone 4,id-26055680,card-a9eaaf2eae,hotmail.com
+dev-52458642,samsung GT-I9300 (m0xx),id-28161024,card-dcd0dbd29f,hotmail.com
+dev-52458642,samsung GT-I9300 (m0xx),id-28161024,card-cdb3e3a1f7,hotmail.com
+dev-52458642,samsung GT-I9300 (m0xx),id-28161024,card-39eae4f9f9,hotmail.com
+dev-a6ec70f1,ios,id-25760512,card-f62c9e0f51,fifj.com
+dev-50556566,samsung GT-I9300 (m0xx),id-83169536,card-129af9c406,gmail.com
+dev-50556566,samsung GT-I9300 (m0xx),id-83169536,card-7c8e4b0275,gmail.com
+dev-50556566,samsung GT-I9300 (m0xx),id-83169536,card-c785341fe2,gmail.com
+dev-a6ec70f1,ios,id-28427776,card-f62c9e0f51,guj.com
+dev-a6ec70f1,ios,id-03240704,card-f62c9e0f51,gij.com
+dev-A19DE1FC,iPhone 4,id-35019008,card-129af9c406,hotmail.com
+dev-a6ec70f1,ios,id-06901248,card-7fc1b208c8,dkdn.com
+dev-A19DE1FC,iPhone 4,id-35019008,card-5f56107f5c,hotmail.com
+dev-a6ec70f1,ios,id-06901248,card-f62c9e0f51,dkdn.com
+dev-b8f951a4,ios,id-54021120,card-506e613269,gmail.com
+dev-b8f951a4,ios,id-54021120,card-008482076d,gmail.com
+dev-79402112,iPhone 5,id-388765,card-77bcf32d7d,yahoo.com
+dev-b8f951a4,ios,id-54021120,card-bf73e6e5cc,gmail.com
+dev-79402112,iPhone 5,id-388765,card-11c7ef16c7,yahoo.com
+dev-b8f951a4,ios,id-54021120,card-9167f41031,gmail.com
+dev-79402112,iPhone 5,id-388765,card-b906ce0628,yahoo.com
+dev-79402112,iPhone 5,id-388765,card-f62c9e0f51,yahoo.com
+dev-b8f951a4,ios,id-54021120,card-25ebaef211,gmail.com
+dev-79402112,iPhone 5,id-388765,card-75c549e2a3,yahoo.com
+dev-fb9cf1d3,ios,id-64381184,card-008482076d,gmail.com
+dev-79402112,iPhone 5,id-388765,card-388765,yahoo.com
+dev-79402112,iPhone 5,id-388765,card-7fc1b208c8,yahoo.com
+dev-79402112,iPhone 5,id-388765,card-719c600e76,yahoo.com
+dev-57140485,samsung GT-I9300 (m0xx),id-00572672,card-ad673b5b8b,ymail.com
+dev-57140485,samsung GT-I9300 (m0xx),id-00572672,card-a86a7b2457,ymail.com
+dev-57140485,samsung GT-I9300 (m0xx),id-00572672,card-6ac6c18d60,ymail.com
+dev-57140485,samsung GT-I9300 (m0xx),id-00572672,card-0523ea87a7,ymail.com
+dev-57140485,samsung GT-I9300 (m0xx),id-00572672,card-4c1cf9bd30,ymail.com
+dev-57140485,samsung GT-I9300 (m0xx),id-00572672,card-530bdb9241,ymail.com
+dev-52480977,samsung GT-N7100 (t03gxx),id-63145728,card-ab9b2255e1,gmail.com
+dev-57140485,samsung GT-I9300 (m0xx),id-00572672,card-d000468333,ymail.com
+dev-A85531E8,iPhone 5c,id-84341504,card-462e153878,gmail.com
+dev-A85531E8,iPhone 5c,id-84341504,card-0ff508663d,gmail.com
+dev-A85531E8,iPhone 5c,id-84341504,card-a160bf4ea4,gmail.com
+dev-56626276,Sony LT30p,id-08697088,card-15254bcd15,gmail.com
+dev-56626276,Sony LT30p,id-08697088,card-ce862fd7be,gmail.com
+dev-56626276,Sony LT30p,id-08697088,card-9af59db069,gmail.com
+dev-55898447,samsung GT-I9300 (m0xx),id-63160832,card-3fe74d61f8,gmail.com
+dev-56626276,Sony LT30p,id-08697088,card-017013040c,gmail.com
+dev-55936229,samsung GT-I9195 (serranoltexx),id-87331584,card-c075a141cd,yahoo.au
+dev-55936229,samsung GT-I9195 (serranoltexx),id-87331584,card-6a00c620d5,yahoo.au
+dev-55936229,samsung GT-I9195 (serranoltexx),id-87331584,card-d97d8e6681,yahoo.au
+dev-55936229,samsung GT-I9195 (serranoltexx),id-87331584,card-322bd4cacc,yahoo.au
+dev-55936229,samsung GT-I9195 (serranoltexx),id-87331584,card-f7f3fad9b4,yahoo.au
+dev-44929337,samsung GT-I9100,id-45207040,card-a9eaaf2eae,hotmaik.com
+dev-44929337,samsung GT-I9100,id-45207040,card-3c2b5bf8d5,hotmaik.com
+dev-55936229,samsung GT-I9195 (serranoltexx),id-87331584,card-1adc409a1c,yahoo.au
+dev-44929337,samsung GT-I9100,id-45207040,card-7ce4b9713c,hotmaik.com
+dev-44929337,samsung GT-I9100,id-45207040,card-92e7a211fe,hotmaik.com
+dev-55936229,samsung GT-I9195 (serranoltexx),id-87331584,card-428afad22d,yahoo.au
+dev-55936229,samsung GT-I9195 (serranoltexx),id-87331584,card-38d27cf33d,yahoo.au
+dev-55936229,samsung GT-I9195 (serranoltexx),id-87331584,card-ed838643f8,yahoo.au
+dev-55936229,samsung GT-I9195 (serranoltexx),id-87331584,card-52736f2516,yahoo.au
+dev-55936229,samsung GT-I9195 (serranoltexx),id-87331584,card-fa860e20a4,yahoo.au
+dev-a6ec70f1,ios,id-02140160,card-f62c9e0f51,fjdj.com
+dev-50449052,Sony C6603,id-10397184,card-08aeeab6a9,gmail.com
+dev-50449052,Sony C6603,id-10397184,card-ca63406335,gmail.com
+dev-50449052,Sony C6603,id-10397184,card-416f9e8618,gmail.com
+dev-BF3DFEF0,iPhone 4S,id-356698,card-92bf075c78,gmail.com
+dev-BF3DFEF0,iPhone 4S,id-356698,card-9bc9db1558,gmail.com
+dev-a6ec70f1,ios,id-12535552,card-f62c9e0f51,fuy.com
+dev-BF3DFEF0,iPhone 4S,id-356698,card-7f63e2e93b,gmail.com
+dev-BF3DFEF0,iPhone 4S,id-356698,card-ed652bb05b,gmail.com
+dev-3f6bd887,,id-33765632,card-151723c9e9,gmail.com
+dev-3f6bd887,,id-33765632,card-6995ef8880,gmail.com
+dev-3f6bd887,,id-33765632,card-bda7be2615,gmail.com
+dev-3f6bd887,,id-33765632,card-4e4de5444c,gmail.com
+dev-a6ec70f1,,id-43971840,card-f62c9e0f51,kjt.com
+dev-57599399,HTC HTC One (m7_google),id-92167424,card-8af0416be0,gnjd.com
+dev-a6ec70f1,,id-47340032,card-f62c9e0f51,huu.com
